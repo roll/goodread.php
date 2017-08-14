@@ -1,0 +1,27 @@
+{
+    "name": "packspec/packspec",
+    "description": "packspec-php",
+    "license": "MIT",
+    "bin": [
+        "bin/packspec-php"
+    ],
+    "require": {
+        "php": ">=7.0",
+        "symfony/yaml": "^3.0",
+        "spatie/emoji": "^1.0",
+        "kevinlebrun/colors.php": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8.35",
+        "frictionlessdata/tableschema": "^0.1.5",
+        "psy/psysh": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "packspec\\packspec\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --debug --bootstrap tests/autoload.php tests/ --coverage-clover coverage-clover.xml"
+    }
+}
