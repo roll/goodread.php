@@ -1,5 +1,5 @@
 <?php
-namespace roll\packspec;
+namespace goodread\goodread;
 use Colors\Color;
 use Spatie\Emoji\Emoji;
 use Symfony\Component\Yaml\Yaml;

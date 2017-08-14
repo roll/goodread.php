@@ -1,9 +1,9 @@
 {
-    "name": "packspec/packspec",
-    "description": "packspec-php",
+    "name": "goodread/goodread",
+    "description": "goodread-php",
     "license": "MIT",
     "bin": [
-        "bin/packspec-php"
+        "bin/goodread-php"
     ],
     "require": {
         "php": ">=7.0",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "packspec\\packspec\\": "src/"
+            "goodread\\goodread\\": "src/"
         }
     },
     "scripts": {

@@ -1,5 +1,5 @@
 <?php
-namespace packspec\packspec\tests;
+namespace goodread\goodread\tests;
 
 
 class TableTest extends TestCase
