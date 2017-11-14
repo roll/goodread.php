@@ -1,5 +1,6 @@
 {
     "name": "goodread/goodread",
+    "version": "0.2.0",
     "description": "goodread-php",
     "license": "MIT",
     "bin": [
