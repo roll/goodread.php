@@ -1,7 +1,7 @@
 {
     "name": "goodread/goodread",
     "version": "v0.2.1",
-    "description": "goodread-php",
+    "description": "Test runner for README.md. Support for Python/JavaScript/Ruby/PHP code blocks. Integration with hackmd.io.",
     "license": "MIT",
     "bin": [
         "bin/goodread-php"
