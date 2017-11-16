@@ -1,7 +1,7 @@
 {
     "name": "goodread/goodread",
     "version": "v0.3.1",
-    "description": "Test runner for README.md. Support for Python/JavaScript/Ruby/PHP code blocks. Integration with hackmd.io.",
+    "description": "Doctest for markdown with comment-based assertions. Python/JavaScript/Ruby/PHP test runners and hackmd.io integration.",
     "license": "MIT",
     "bin": [
         "bin/goodread-php"
