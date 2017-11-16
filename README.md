@@ -4,6 +4,6 @@
 [![Coveralls](http://img.shields.io/coveralls/goodread/goodread-php.svg?branch=master)](https://coveralls.io/r/goodread/goodread-php?branch=master)
 [![Packagist](https://img.shields.io/packagist/dm/goodread/goodread.svg)](https://packagist.org/packages/goodread/goodread)
 
-Test runner for README.md. Support for Python/JavaScript/Ruby/PHP code blocks. Integration with hackmd.io. Read more about the project:
+Doctest for markdown with comment-based assertions. Python/JavaScript/Ruby/PHP test runners and hackmd.io integration. Read more about the project:
 
 - https://github.com/goodread/goodread
